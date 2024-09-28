@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LR22</string>
+    <string name="for_who">Кому</string>
+    <string name="massage">Сообщение</string>
+    <string name="send">Отправить</string>
+</resources>
